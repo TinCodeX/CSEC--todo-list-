@@ -3,6 +3,7 @@ A simple and clean To-Do List application built with React that helps you stay o
 This project was created to practice React fundamentals such as components, state management, and event handling while converting a traditional HTML/CSS/JavaScript project into React.
 
 ✨ Features
+
 Add new tasks
 Mark tasks as completed
 Edit existing tasks
